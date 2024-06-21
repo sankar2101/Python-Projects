@@ -1,0 +1,3 @@
+api:
+  url: "https://potlam-dev.azurewebsites.net/apicall/Cloud_print_list.php"
+  public_key: "d3b429c5e6b68400446efd72deae46de"
